@@ -187,6 +187,6 @@ Diventa protagonista attivo del tuo destino digitale: la sicurezza è, prima di 
 ## Risultato Finale
 
 Il risultato completo e interattivo di questo progetto è accessibile qui:  
-🔗 [Security Operations attraverso la Filosofia del Digital Bushidō](https://webengineerxy.github.io/cspt0125itM5/)
+🔗 [Security Operations attraverso la Filosofia del Digital Bushidō](https://webengineerxy.github.io/cspt0125itM5/securityoperations.html)
 
 ---
